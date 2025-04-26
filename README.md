@@ -1,2 +1,5 @@
 # random-number-generator
-actually, there's not much in there, just  printing you a random number from 1 to 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999. Also, made on python! :D
+okay, so, as been told in description, app doesn't makes much..
+just click on the "generate" button and it'll give you a random number for 1 to 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999.
+
+P.S don't ask why such a big number
